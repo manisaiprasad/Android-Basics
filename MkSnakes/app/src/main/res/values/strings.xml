@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MkSnakes</string>
+    <string name="logo">Snakes And Ladders</string>
+    <string name="roll">Roll It</string>
+</resources>
